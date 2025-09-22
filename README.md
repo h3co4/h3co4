@@ -77,9 +77,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
 
 ### 🌟 Recent Repositories
 
