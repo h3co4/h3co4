@@ -14,7 +14,7 @@
 - 🌱 I'm currently learning **advanced full stack technologies**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **web development, databases, and modern frameworks**
-- 📫 How to reach me: **alifiansyahpatriaeka.com**
+- 📫 How to reach me: *alifiansyahpatriaeka.com**
 - ⚡ Fun fact: **I love solving complex problems with elegant solutions**
 
 ---
@@ -55,16 +55,13 @@
 <div align="center">
 
 ### 🔥 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
 ### ⚡ GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 ### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-
-### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=1f6feb&point=58a6ff" alt="Contribution Graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -176,5 +173,7 @@ const developer = {
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
+
+*Note: Replace YOUR_GITHUB_USERNAME with your actual GitHub username in all the links above*
 
 </div>
