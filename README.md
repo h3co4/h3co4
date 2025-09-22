@@ -14,7 +14,7 @@
 - 🌱 I'm currently learning **advanced full stack technologies**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **web development, databases, and modern frameworks**
-- 📫 How to reach me: *alifiansyahpatriaeka.com**
+- 📫 How to reach me: **alifiansyahpatriaeka@gmail.com**
 - ⚡ Fun fact: **I love solving complex problems with elegant solutions**
 
 ---
@@ -55,13 +55,13 @@
 <div align="center">
 
 ### 🔥 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=h3co4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
 ### ⚡ GitHub Streak
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=h3co4&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 ### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3co4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -71,7 +71,7 @@
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=h3co4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -83,8 +83,8 @@
 
 ### 🌟 Recent Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=h3co4&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/h3co4/REPO_NAME_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=h3co4&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/h3co4/REPO_NAME_2)
 
 </div>
 
@@ -111,7 +111,7 @@ const developer = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h3co4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-site.com)
@@ -124,7 +124,7 @@ const developer = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=58a6ff&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=h3co4&color=58a6ff&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -172,8 +172,8 @@ const developer = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/h3co4/h3co4/output/github-contribution-grid-snake.svg)
 
-*Note: Replace YOUR_GITHUB_USERNAME with your actual GitHub username in all the links above*
+*Note: For the snake animation to work, you need to set up GitHub Actions. The featured repositories section needs your actual repo names.*
 
 </div>
