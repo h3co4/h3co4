@@ -14,7 +14,7 @@
 - 🌱 I'm currently learning **advanced full stack technologies**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **web development, databases, and modern frameworks**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **alifiansyahpatriaeka.com**
 - ⚡ Fun fact: **I love solving complex problems with elegant solutions**
 
 ---
