@@ -77,12 +77,6 @@
 
 ---
 
-
-### 🌟 Recent Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=h3co4&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/h3co4/REPO_NAME_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=h3co4&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/h3co4/REPO_NAME_2)
-
 </div>
 
 ---
