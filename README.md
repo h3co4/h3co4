@@ -163,8 +163,4 @@ const developer = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/h3co4/h3co4/output/github-contribution-grid-snake.svg)
-
-*Note: For the snake animation to work, you need to set up GitHub Actions. The featured repositories section needs your actual repo names.*
-
 </div>
